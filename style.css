@@ -1,0 +1,8 @@
+html, body {
+  height: 100%;
+  width: 100%;
+}
+.bg-success {
+  --bs-bg-opacity: 1;
+  background-color: rgba(var(--bs-success-rgb), var(--bs-bg-opacity)) !important;
+}

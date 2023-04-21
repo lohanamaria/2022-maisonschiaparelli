@@ -1,0 +1,925 @@
+ {
+    "produtos": [
+      {
+        "identificacao": "Snap skirt",
+        "favoritar": "Favoritar produto",
+        "categoria": "Varidades",
+        "valor": 1500,
+        "imagem": "https://www.schiaparelli.com/eshop/eshopmedias/packshot-PH22JU117503S-107-medFormat?context=bWFzdGVyfHJvb3R8MjI3NDY3fGltYWdlL2pwZWd8aDY0L2hiYy84OTUwNDA5MzYzNDg2LmpwZ3xlZGMwNDFlMTc4MGZmMzJkYzUyM2QzODhiZGMxNjkyMzM5YzdlZTkyYWM4YjdkZGY5ODQ1ZjY3MTY5NWJhYTQw&frz-v=114", 
+        "colecao": "Fall - Winter 21/22", 
+        "cor": "Black and white", 
+        "referencia":"PH22JU117503S_107-T34",
+        "tipo":"skirt",
+        "tamanho": 36, 
+        "alt": "A mini skirt crafted from ecru curly wool and tweed jacquard. The raglan pockets are adorned with a Dove and gilded brass anatomy Bijoux buttons, which include an iris made of rhinestones, a baroque drop beaded Tooth.",
+        "favorito": false
+      }, 
+      
+      {
+        "identificacao": "Embroidered jacket",
+        "favoritar": "Favoritar produto",
+        "categoria": "Varidades",
+        "valor": 8500,
+        "imagem": "https://www.schiaparelli.com/eshop/eshopmedias/packshot-PE22VE050801S-114-medFormat?context=bWFzdGVyfHJvb3R8MjMxMjU2fGltYWdlL2pwZWd8aGYwL2gwNC84OTI5MzYwODM4Njg2LmpwZ3w4Yjg0ODhlOGYxYzU3YjhlYTQwNmExNDMxNzc0NGZlNzE5MTM4Zjc1MmE2ZGQ3NmRiOWYwZTYxOGU3MDMxMDY4&frz-v=114", 
+        "colecao": "Fall - Winter 22/23", 
+        "cor": "White and grey", 
+        "referencia":"PH21MA090801S_999-T42",
+        "tipo":"jacket",
+        "tamanho": 34,
+        "alt": "A jacket crafted from ecru Japanese denim. Embroidered in a matador motif with lamé and silver thread to illustrate body part elements. Gilded brass piercings. Reversible. ",
+        "favorito": false
+      }, 
+      
+      {
+        "identificacao": "Corset top",
+        "categoria": "Varidades",
+        "valor": 4500,
+        "imagem": "https://www.schiaparelli.com/eshop/eshopmedias/packshot-PH22TO072820S-999-medFormat?context=bWFzdGVyfHJvb3R8MTIzNzA3fGltYWdlL2pwZWd8aGYyL2g4MC84OTUwNTc5NjkxNTUwLmpwZ3w1YjliNzIwY2NlYTRhYmQzYjczNzQ2Yjg2ODU5MjRjY2M3OGIyMmFlZTE3MTM4YzlmZmJlYjFlYjg1NTEyYTU2&frz-v=114", 
+        "colecao": "Spring - Summer 20/21", 
+        "cor": "Black", 
+        "referencia":"PH22TO072820S_999-T34",
+        "tipo":"top",
+        "tamanho": 38,
+        "alt": "A ball-shaped corset bustier crafted from double-black wool crepe. The Eyelets are gilded brass and the tab is lined in leather. It is adorned with piercing rings.",
+        "favotito": true
+      },
+  
+      {
+        "identificacao": "Mini skirt",
+        "categoria": "Varidades",
+        "valor": 3000,
+        "imagem": "https://www.schiaparelli.com/eshop/eshopmedias/packshot-PH21JU077501S-999-medFormat?context=bWFzdGVyfHJvb3R8MjQwMDA3fGltYWdlL2pwZWd8aDIyL2g5MS84OTA1NjM0NzA5NTM0LmpwZ3wzMjA2ZDg2ZTYxOWFhNmE0NzliMTNhYjc0MWRiNjMxZGIxOWFmOTExYTFiZDJhYTUzZDliMzYwZjU2ODQ0NzVi&frz-v=114", 
+        "colecao": "Spring - Summer 20/21", 
+        "cor": "Black and bege", 
+        "referencia":"PH21JU077501S_999-T40",
+        "tipo":"skirt",
+        "tamanho": 38      ,
+        "alt": "A miniskirt is crafted from Italian gingham. A gilded brass toggle clasp in the shape of a Padlock is detailed with a black enamel Keyhole.",
+        "favorito": false
+      },
+  
+       {
+        "identificacao": "Jewelry cardigan",
+        "categoria": "Varidades",
+        "valor": 1200,
+        "imagem": "https://www.schiaparelli.com/eshop/eshopmedias/packshot-PE2202CA4000S-107-medFormat?context=bWFzdGVyfHJvb3R8MjA5MTk2fGltYWdlL2pwZWd8aGIxL2gzMS84OTM1MDg5OTk1ODA2LmpwZ3wxZmE1YzRkMzgyOWJkMTAwM2I0ODBiY2ZhNzI5MDg0M2E5ODkzZmIyMjNlYjA0NmNlYTYwZDU5NDdlZGZmZGEw&frz-v=114", 
+        "colecao": "Fall - Winter 21/22", 
+        "cor": "Black and white", 
+        "referencia":"PH2201TO6004S_100-TXS",
+        "tipo":"jacket",
+        "tamanho": 35   ,
+        "alt": "This cardigan is crafted in ecru cotton with lace embroidery on the back featuring tassels and anatomy designs of an Ear, Nose, and Mouth. Includes piercing decorations. The pockets are embellished with gilded brass jewelry buttons and harness adornments.",
+         "favorito": false
+      },
+  
+      
+       {
+        "identificacao": "Graphic Intarsia Pulover",
+        "categoria": "Varidades",
+        "valor": 1400,
+        "imagem": "https://www.schiaparelli.com/eshop/eshopmedias/packshot-PH2208PU1000S-126-medFormat?context=bWFzdGVyfHJvb3R8MTk2NzYzfGltYWdlL2pwZWd8aDE1L2hjYy84OTUwNzYxNjUyMjU0LmpwZ3xjNmUxYzZmYTBlNTEzOTg2ZjI2YjA1ZGRkMTBlM2ZjNGNiZjQxOGNkNjYzZGQ2MWNkODdjZTg5MDk3NjA4OGEz&frz-v=114", 
+        "colecao": "Fall - Winter 21/22", 
+        "cor": "Black and white", 
+        "referencia":"PH2208PU1000S_126-TXS",
+        "tipo":"sweatshirt",
+        "tamanho": 36      ,
+         "alt":"A turtleneck sweater crafted from brushed cashmere and wool jacquard and features a black and white graphic. It is embellished with gilded brass Padlock rivets on the back. ",
+         "favorito": false
+      },
+  
+       {
+        "identificacao": "Corset Pants",
+        "categoria": "Varidades",
+        "valor": 2200,
+        "imagem": "https://www.schiaparelli.com/eshop/eshopmedias/packshot-PE22PA012803S-999-medFormat?context=bWFzdGVyfHJvb3R8MTEwMzQ1fGltYWdlL2pwZWd8aGViL2hkYS84OTI2MDQ5NjMyMjg2LmpwZ3wxOGNmMmNiNGVhMmQ3ZTAwY2VmOGNlZTllMGI2MWNkZWI1MGYwNWY5OGJhNTExOTE4N2E0Yzg1MzBhYTI4YmY4&frz-v=114", 
+        "colecao": "Fall - Winter 20/21", 
+        "cor": "Black", 
+        "referencia":"PE22PA012803S_999-T40",
+        "tipo":"pants",
+        "tamanho": 40      ,
+         "alt":"These high-waisted pants are crafted from black wool and silk wool cady and have a corseted effect.",
+         "favorito": true
+      },
+  
+       {
+        "identificacao": "Leather shorts",
+        "categoria": "Varidades",
+        "valor": 4500,
+        "imagem": "https://www.schiaparelli.com/eshop/eshopmedias/packshot-PE22PA139002s-999-medFormat?context=bWFzdGVyfHJvb3R8MTQ3MTk3fGltYWdlL2pwZWd8aDQ3L2hiMi84OTI1MzgxNzg3Njc4LmpwZ3w2YjZkYmFiMzUxMjRlZDlhOGYwODc1MThhNTcwMjBkYzMzMzE5MTJjNTdlMTZlNDcwZmE1MTY5MzhmZGY0MjM3&frz-v=114", 
+        "colecao": "Spring - Summer 21/22", 
+        "cor": "Black", 
+        "referencia":"PE22PA139002S_999-T34",
+        "tipo":"pants",
+        "tamanho": 38  ,
+         "alt": "A pair of shorts in black leather with crackle effect. Gilded brass harness at waistband attached to anatomy jewelry.",
+         "favorito": false
+      },
+  
+      {
+        "identificacao": "Breasted measuring tape  blazer",
+        "categoria": "Varidades",
+        "valor": 5400,
+        "imagem": "https://www.schiaparelli.com/eshop/eshopmedias/packshot-PE21VE053405NS-800-medFormat?context=bWFzdGVyfHJvb3R8MjA2OTI1fGltYWdlL2pwZWd8aDA1L2hiOC84ODkyMjU3ODI4ODk0LmpwZ3wwMzEzMWMwNDgzMmUzZjQ5ODBkMDFjMDUyMTU1ODJjYThmZGU2MWVjMTkzMzZjNmM5NzY1MDRmMjg2ZmJmMWZk&frz-v=114", 
+        "colecao": "Fall - winter 21/22", 
+        "cor": "Brown", 
+        "referencia":"PE21VE053405NS_800-T36",
+        "tipo":"jacket",
+        "tamanho": 34 ,
+        "alt": "A double-breasted blazer in brown wool fresco with a cinched waist. In the classic trompe l’oeil style of Schiaparelli, two gilded brass embellishments sit at the chest. Gilded brass buttons come in the form of a Keyhole at the jacket’s front and at the cuffs. The lapel, adorned with a three-dimensional embroidery of a Keyhole, is stitched in gold thread with the Schiaparelli logo and a Measuring tape. A jacquard lining boasts a tone-on-tone pink Lock pattern.",
+        "favorito": false
+      },
+  
+      {
+        "identificacao": "Custom Front back jeans pants",
+        "categoria": "Varidades",
+        "valor": 2500,
+        "imagem": "https://www.schiaparelli.com/eshop/eshopmedias/packshot-PE21PA010802S-999-medFormat?context=bWFzdGVyfHJvb3R8MzYxNTc2fGltYWdlL2pwZWd8aDlmL2hiYi84ODkyMzUzMDUyNzAyLmpwZ3w3YTYwNTc0ZGIzZTNlOGM4MzI4NzIzYjZkMTViY2IxNTk3Y2Y0N2JmY2Q0ZjAwNDA5YmUyMDVhM2JmYWIwZWI4&frz-v=114", 
+        "colecao": "Fall - Winter 20/21", 
+        "cor": "Black", 
+        "referencia":"PE21PA010802S_999-T40",
+        "tipo":"pants",
+        "tamanho": 38,
+        "alt": "High-waisted black jeans crafted from Japanese denim are painted by hand by a Parisian craftsman. The jeans are made to be worn front to back.The pair is adjustable, featuring tightening tabs with a gilded brass buckle with the Schiaparelli logo at the waist. Rivets include an S motif.",
+    "favorito": false
+      },
+  
+      {
+        "identificacao": "Assimetric Twisted drapped dress",
+        "categoria": "Varidades",
+        "valor":5200,
+        "imagem": "https://www.schiaparelli.com/eshop/eshopmedias/packshot-PE21RO133402S-701-medFormat?context=bWFzdGVyfHJvb3R8MTMxMDgyfGltYWdlL2pwZWd8aDdlL2gwYS84ODg3MDM5Njg4NzM0LmpwZ3xlNzQyYjZjOGJlN2FmYTg4NjQxY2VhMWVkYTMwMDBkNWE5OTgwYzAzOTgyODI4MWVlNDhhMGRmMTExNDQ0OGJk&frz-v=115", 
+        "colecao": "Spring - Summer 20/21", 
+        "cor": "Black", 
+        "referencia":"PH22RO115718S_999-T34",
+        "tipo":"dress",
+        "tamanho": 34 ,
+        "alt": "A sleeveless midi dress crafted from black wool crepe. Its form and detailing are reminiscent of a Stockman mannequin bust. The gilded brass chains at the torso give a trompe l’oeil Skeleton effect.",
+        "favorito": true
+      },
+  
+      {
+        "identificacao": "Srockman dress",
+        "categoria": "Varidades",
+        "valor": 3500,
+        "imagem": "https://www.schiaparelli.com/eshop/eshopmedias/packshot-PH22RO011026S-999-medFormat?context=bWFzdGVyfHJvb3R8MTgzMjQ4fGltYWdlL2pwZWd8aDk2L2g1ZC84OTUwNTkxNTIwNzk4LmpwZ3wxZTJhZTM3OGFlM2EyZWQxMDQyOWM3M2E3MDJmMzQ3YWFmOWIxZWEyODY5NWI5ODQwMDJhNzBjYWExMjM2ZTFl&frz-v=114", 
+        "colecao": "Spring - Summer 21/22", 
+        "cor": "Black", 
+        "referencia":"PH22RO011026S_999-T34",
+        "tipo":"dress",
+        "tamanho": 35,
+        "alt": "A midi dress is crafted from curly black cashmere with lambskin trim at the shoulders. In a nod to the anatomical elements, gilded brass bijoux buttons adorn the shoulders, including a three-dimensional Ear and a green Eye in printed resin, as well as a Padlock.",
+        "favorito": false
+      },
+  
+      {
+        "identificacao": "Evening waistcoast",
+        "categoria": "Varidades",
+        "valor": 3200,
+        "imagem": "https://www.schiaparelli.com/eshop/eshopmedias/packshot-PH22GI022820S-999-medFormat?context=bWFzdGVyfHJvb3R8ODk2ODB8aW1hZ2UvanBlZ3xoZDMvaGRlLzg5NTAyOTk2MjM0NTQuanBnfDc1NDMzNzY2MGRjZTM5YzZhOWM3NDc5YjlkZGQ5MTIzMjhiN2ZiY2M1Y2RhOTFhZWNmMmQyZjU2ZDMzMWQ1MzI&frz-v=114", 
+        "colecao": "Spring - Summer 21/22Black", 
+         "cor": "Black", 
+        "referencia":"PH22GI022820S_999-T34",
+        "tipo":"top",
+        "tamanho": 37 ,
+        "alt": "Open-back waistcoat in black double wool crepe and tuxedo-style black silk velvet lapels. Jewelry buttons in hammered and gilded brass anatomy and dove. Corset yoke in the back closed by a set of gold and hammered brass eyelets and lacing finished with hammered gold and rhinestone jewelry cord ends",
+        "favorito": false
+      },
+  
+       {
+        "identificacao": "Painted shirt",
+        "categoria": "Varidades",
+        "valor": 2700,
+        "imagem": "https://www.schiaparelli.com/eshop/eshopmedias/packshot-PH22CH050420S-100-medFormat?context=bWFzdGVyfHJvb3R8MTg5Njk1fGltYWdlL2pwZWd8aGZjL2hhMy84OTUwNTUxNDEyNzY2LmpwZ3xiNmNlM2NkODlkZGNiMDQ2YjA5OTJhOGRhYjdhZTM1OTRhMTZjNDFjYTFkY2U0MjhmYzZmMDA2ZmIyM2E0YTA5&frz-v=114", 
+        "colecao": "Fall - Winter 20/21", 
+        "cor": "White and black", 
+        "referencia":"PH22CH050420S_100-T34",
+        "tipo":"jacket",
+        "tamanho": 39     ,
+         "alt": "A shirt crafted from white cotton poplin that is illustrated with sketch designs. It is closed by gilded brass Bijoux buttons in the shape of Padlocks. ",
+         "favorito": false
+      },
+  
+      {
+        "identificacao": "Torso coat",
+        "categoria": "Varidades",
+        "valor": 6900,
+        "imagem": "https://www.schiaparelli.com/eshop/eshopmedias/packshot-PH21MA102804S-106-medFormat?context=bWFzdGVyfHJvb3R8MTk4MTQ3fGltYWdlL2pwZWd8aDk5L2gyNi84OTE0NjUxNzQyMjM4LmpwZ3w1NWY1OGU0MjkxOWE4Mzk3NWQ5Mzg3N2IwMjY5NjBjNDI2MTBmY2UwZjVjZjMwNjNlZWY3ZWQ5NmFiNDUzYjQ3&frz-v=114", 
+        "colecao": "Fall - Winter 21/22", 
+        "cor": "White", 
+        "referencia":"PE22VE011402S_999-T38",
+        "tipo":"jacket",
+        "tamanho": 38,
+        "alt": "A double-Breasted coat is crafted from eggshell Italian wool crepe. The Torso is stitched with contrasting trompe l’oeil embroidery to mimic Breasts and Abdominal muscles. Tailoring, including darting, is highlighted thanks to corset lacing through gilded brass eyelets. Gilded brass Anatomy bijoux buttons engraved with an S for the initial of Schiaparelli close the sleeves. ",
+        "favorito": false
+      },
+  
+       {
+        "identificacao": "Cardigan jacket",
+        "categoria": "Varidades",
+        "valor": 3900,
+        "imagem": "https://www.schiaparelli.com/eshop/eshopmedias/packshot-PE21VE131024S-999-medFormat?context=bWFzdGVyfHJvb3R8MTMyODkxfGltYWdlL2pwZWd8aGNiL2hiOC84ODkwNjk5MzUwMDQ2LmpwZ3xkYjMxZDQ1ODRmM2IxMjQzZDllYzEzZTYxN2FkMTQwZTgyODk2NmE0NDA0ZjI5NjlkYWFjYWNlYzY2ZDRjNjIy&frz-v=114", 
+        "colecao": "Fall - Winter 21/22", 
+        "cor": "Black",  
+        "referencia":"PH22VE017502S_999-T34",
+        "tipo":"jacket",
+        "tamanho": 38   ,
+         "alt": "A short cardigan jacket crafted from black curly wool and tweed jacquard. It is adorned with gilded brass anatomy bijoux buttons, a gold brass Dove, and a pierced. The cuffs are decorated with Eyelets and piercing ring",
+         "favorito": true
+      },
+  
+      
+       {
+        "identificacao": "Bones dress",
+        "categoria": "Varidades",
+        "valor": 5200,
+        "imagem": "https://www.schiaparelli.com/eshop/eshopmedias/packshot-PH2201RO5000S-100-medFormat?context=bWFzdGVyfHJvb3R8MjMxODg1fGltYWdlL2pwZWd8aDIyL2g4Ny84OTUwNjYzNjEwMzk4LmpwZ3xlZDFmYTBkMzRkYjZlYjYyZjQ0NzU4NTU2YjIwZTE4NmU1MjA5ODIyZGY1Y2I4MWQ2ZjI4MGNhOWZhYjczYmQw&frz-v=114", 
+        "colecao": "Fall - Winter 21/22", 
+        "cor": "White", 
+        "referencia":"PE2202RO2000S_100-T40",
+        "tipo":"dress",
+        "tamanho": 34 ,
+         "alt": "This long fitted dress is crafted in black viscose and features three-dimensional bone embroidery.",
+         "favorito": false
+      },
+  
+      {
+        "identificacao": "Double breasted jacket",
+        "categoria": "Varidades",
+        "valor": 4400,
+        "imagem": "https://www.schiaparelli.com/eshop/eshopmedias/packshot-PH22VE052401S-107-medFormat?context=bWFzdGVyfHJvb3R8NDEwMTAzfGltYWdlL2pwZWd8aDRjL2hkZS84OTU3NzUxMTMyMTkwLmpwZ3xlZDlkOTI5ZmMwN2YwNWJhMTY2NzZhYTg0ZmMyYTMyNjExYzZhYjRjZGQ2YWE3YmM1ZjFiMmI0NmE1NTBmOTll&frz-v=114", 
+        "colecao": "Fall - Winter 21/22", 
+        "cor": "White", 
+        "referencia":"PH22VE052401S_107-T34",
+        "tipo":"jacket",
+        "tamanho": 35 , 
+        "alt": "A double-breasted blazer jacket crafted from sketch-printed ecru wool. Adorned with gilded brass bijoux buttons in Schiaparelli codes.",
+        "favorito": true
+      },
+  
+       {
+        "identificacao": "Embrooidered denim pants",
+        "categoria": "Varidades",
+        "valor": 7500,
+        "imagem": "https://www.schiaparelli.com/eshop/eshopmedias/packshot-PE22PA020801s-114-medFormat?context=bWFzdGVyfHJvb3R8Mjc1NzY5fGltYWdlL2pwZWd8aDdkL2g2OS84OTM4NjI1MzY4MDk0LmpwZ3xmNTg3ZTQxMmJjNmNjMzhiNTI4MDY3NjZlZTcwODk1Mjg4OGQ0NGJjNTk3NWVlOGVjYTQzMTI5MGMxYTY0YTNj&frz-v=114", 
+        "colecao": "Spring - Summer 20/21", 
+        "cor": "White", 
+        "referencia":"PE22PA020801S_114-T34",
+        "tipo":"pants",
+        "tamanho": 34      ,
+         "alt": "These pants are crafted from ecru Japanese denim. Embroidered with a silver leaf and Eye motif. Embellished with a gilded brass Mouth and  harnesses at the waist.",
+         "favorito": true
+      },
+  
+      {
+        "identificacao": "Striped tuxedo top",
+        "categoria": "Varidades",
+        "valor": 1900,
+        "imagem": "https://www.schiaparelli.com/eshop/eshopmedias/packshot-PE22TO010404S-748-medFormat?context=bWFzdGVyfHJvb3R8MTQ2OTQ0fGltYWdlL2pwZWd8aDdhL2gyMy84OTI5MzI5MTg0Nzk4LmpwZ3wwZTBiNWE1MzM3ZmE2YjA2NTFmMTI5ZTZkNDI5ZTFhZGFkMTg1M2E5MGRiYjBiZDBjOTdiMTM5MDk3NDIyZmE1&frz-v=114", 
+        "colecao": "Spring - Summer 21/22", 
+        "cor": "Blue and white", 
+        "referencia":"PE22TO010404S_748-T36",
+        "tipo":"top",
+        "tamanho": 34    ,
+        "alt": "This top is crafted from striped cotton poplin. Tied with two large panels that boast fringes. Embroidered Ear with jewelry piercing. Padlock jewelry buttons in gilded brass.",
+        "favorito": false
+      },
+  
+     { 
+      
+   "identificacao": "Face pendant earrings",
+        "categoria": "Jewelry",
+        "valor": 1650,
+        "imagem": "https://www.schiaparelli.com/eshop/eshopmedias/packshot-PH22BI17S-001-medFormat?context=bWFzdGVyfHJvb3R8NDk4NzY5fGltYWdlL2pwZWd8aDllL2g3MC84OTUwNzg3NzAyODE0LmpwZ3wxZWY2ZjAwOTk1OTNiODAwMWMxZDI4OTNmZjlkMTFlMmU4MTA2NTk5NTI2Njc3NmM0Y2ViMWNhYmE0NmU4ZWEx&frz-v=114", 
+        "colecao": "Fall - Winter 20/21", 
+        "cor": "Gilded", 
+        "referencia":"PH22BI17S_001-U",
+        "tipo":"Earring",
+        "tamanho": "",
+        "alt": "A pair of gilded brass earrings in the shape of a trompe l’oeil Eye in painted green resin. Each eyelash and cascading tear is dotted with a pearl.",
+       "favorito": true
+      }, 
+  
+     { 
+      
+   "identificacao": "Face Earrings",
+        "categoria": "Jewelry",
+        "valor": 1450,
+        "imagem": "https://www.schiaparelli.com/eshop/eshopmedias/packshot-PH22BI18S-001-medFormat?context=bWFzdGVyfHJvb3R8NTU2NzY1fGltYWdlL2pwZWd8aDJkL2gwMS84OTU1OTI2MDUyODk0LmpwZ3xhYWMyNjJhNzY5ZmI1OTA4ODkyZmJjMTg2MTg2OGVmMzA0ZjVjZjJjNjRiMzUzY2QwY2VmZDRkNjhmNTRiMjc1&frz-v=114", 
+        "colecao": "Fall - Winter 20/21", 
+        "cor": "Gilded", 
+        "referencia":"PH22BI18S_001-U",
+        "tipo":"Earring",
+        "tamanho": "",
+        "alt": "A pair of gilded brass earrings in the shape of an abstract Face and is adorned with pearls and rhinestones. ",
+       "favorito": true
+      }, 
+  
+         { 
+      
+   "identificacao": "Tooth and planet earrings",
+        "categoria": "Jewelry",
+        "valor": 1650,
+        "imagem": "https://www.schiaparelli.com/eshop/eshopmedias/packshot-PH22BI14S-001-xsmallFormat?context=bWFzdGVyfHJvb3R8MTc0MTI1fGltYWdlL2pwZWd8aGIxL2gzNC84OTUwNzcxMzE4ODE0LmpwZ3xkYWYyMDBjOWJjNDdjM2RkNGVkOTBiMzVlZTJiYjljZmVkM2VjNmM0N2VjNTgxYWFjNjY3NDJlZDBkNjI5ZjNj&frz-v=115", 
+        "colecao": "Fall - Winter 20/21", 
+        "cor": "Gilded", 
+        "referencia":"PH22BI14S_001-U",
+        "tipo":"Earring",
+        "tamanho": "",
+        "alt": "A pair of gilded brass earrings in the shape of an abstract Face and is adorned with pearls and rhinestones. ",
+           "favorito": true
+      }, 
+  
+  
+      { 
+      
+   "identificacao": "Trompe-loeil-ear-earrings",
+        "categoria": "Jewelry",
+        "valor": 1500,
+        "imagem": "https://www.schiaparelli.com/eshop/eshopmedias/packshot-PH22BI23S-001-medFormat?context=bWFzdGVyfHJvb3R8MzYzOTU4fGltYWdlL2pwZWd8aDc3L2gxMy84OTUwODE1MzU5MDA2LmpwZ3w0ZmZjMmU4YTZkMzBiOTkwNDE2MzliNzM0N2JlZWQ0NDBlNjVjYWUwYjEyYzgzMjIwZTAxOWNhNzgzODkwYjNl&frz-v=114", 
+        "colecao": "Fall - Winter 20/21", 
+        "cor": "Gilded", 
+        "referencia":"PH22BI23S_001-U",
+        "tipo":"Earring",
+        "tamanho": "",
+        "alt": "A pair of asymmetrical earrings formed from gilded brass and take the shape of a trompe l’oeil Ear.",
+        "favorito": false
+      }, 
+      
+         { 
+      
+   "identificacao": "Sun Choker with Bijoux",
+        "categoria": "Jewelry",
+        "valor": 2000,
+        "imagem": "https://www.schiaparelli.com/eshop/eshopmedias/packshot-PH22BI36S-999-medFormat?context=bWFzdGVyfHJvb3R8NTE4Njc5fGltYWdlL2pwZWd8aDliL2g5Yy84OTUwODQ4OTEzNDM4LmpwZ3xlYTc0M2Y5NzJiODAzNTI0ODI1MjY4OWQzZTQ5YWU5YjNkZDc5ZDViMmNlNmRjZGQ1YzUyMDBkNjJkZjhhMmNj&frz-v=114", 
+        "colecao": "Fall - Winter 20/21", 
+        "cor": "Black/Gilded", 
+        "referencia":"PH22BI36S_999-U",
+        "tipo":"Necklaces",
+        "tamanho": "",
+        "alt": "A black brass choker necklace in the shape of the Sun with defined spokes and a palladium pearl at the end of the chain. ",
+        "favorito": false
+      }, 
+  
+           { 
+      
+   "identificacao": "Anatomy and padlock chain necklace",
+        "categoria": "Jewelry",
+        "valor": 2000,
+        "imagem": "https://www.schiaparelli.com/eshop/eshopmedias/packshot-PH21BI74S-001-medFormat?context=bWFzdGVyfHJvb3R8MTkxMDA1fGltYWdlL2pwZWd8aGRmL2hjNS84OTA0NzM3MDk1NzEwLmpwZ3xjNGFiMTY4NjVlMTRhMjc2ZTMxNjFjZWE3MDE4YzA0MzQ0NTYwOGRhYmFmNjg2M2E5YTc5MDgwNmFjYzgyMDU0&frz-v=114", 
+        "colecao": "Fall - Winter 21/22", 
+        "cor": "Black/Gilded", 
+        "referencia":"PH21BI74S_001-U",
+        "tipo":"Necklaces",
+        "tamanho": "",
+        "alt": "A gilded brass necklace is composed of the following elements, including a black enamel cabochon, a hammered Padlock with painted black enamel lock, a green Eye in printed resin, and a Nose with piercing.",
+       "favorito": true
+      },
+  
+      
+    { 
+      
+   "identificacao": "Padlock necklace",
+        "categoria": "Jewelry",
+        "valor": 950,
+        "imagem": "https://www.schiaparelli.com/eshop/eshopmedias/packshot-PE21BI48S-001-medFormat?context=bWFzdGVyfHJvb3R8MTUzMzI5fGltYWdlL2pwZWd8aDJlL2g5ZC84ODg2MjI2NzgwMTkwLmpwZ3w3NGNiZTg0MGI5NjdmM2Y3NTI2MWFlYWEyMzMxYTI4NDA0MjNiYTFlYjNmMDlkMjI2MjEzODlmNmM1Njg1ZGYx&frz-v=114", 
+        "colecao": "Spring - Summer 21", 
+        "cor": "Gilded", 
+        "referencia":"PE21BI48S_001-U",
+        "tipo":"Necklaces",
+        "tamanho": "",
+        "alt": "Padlock necklace in gilded brass, with Place Vendôme engraved on the pendant.",
+      "favorito": true
+      },
+  
+        { 
+      
+   "identificacao": "Toot loop necklace",
+        "categoria": "Jewelry",
+        "valor": 2700,
+        "imagem": "https://www.schiaparelli.com/eshop/eshopmedias/Zoom2-PE22BI64S-001-U-medFormat?context=bWFzdGVyfHJvb3R8Mzk3MDg3fGltYWdlL2pwZWd8aDEwL2hhYi84OTQ4NDg5OTc3ODg2LmpwZ3w5ZWVkYTBiZmViZWY2OTJlOWVmNmVkZTA2ZGRhOWM2ODVlYjJhOGVmYzIxNjFkZmU2MjMyMjc4YTZmNGViMzI3&frz-v=114", 
+        "colecao": "Spring - Summer 21", 
+        "cor": "Gilded", 
+        "referencia":"PE22BI64S_001-U",
+        "tipo":"Necklaces",
+        "tamanho": "",
+        "alt": "This gilded brass necklace is crafted in the shape of a tooth and a loop with Breasts.",
+          "favorito": true
+      },
+  
+    
+        { 
+      
+   "identificacao": "Face brooch",
+        "categoria": "Jewelry",
+        "valor": 1350,
+        "imagem": "https://www.schiaparelli.com/eshop/eshopmedias/packshot-PH22BI49S-001-medFormat?context=bWFzdGVyfHJvb3R8Mzg4MDcyfGltYWdlL2pwZWd8aDg5L2g0ZC84OTUwODUzNTY2NDk0LmpwZ3xmMjdhZWFmZDRiMThmMmQ4NjAyYmFiMDkwZmU0MjFkNmM5ZTI5Y2I3MjE0NjU3NDhiNDE4ZmYyMWU1Mjc0NDUw&frz-v=114", 
+        "colecao": "Spring - Summer 21", 
+        "cor": "Gilded", 
+        "referencia":" PH22BI49S_001-U",
+        "tipo":"Brooches",
+        "tamanho": "",
+        "alt": "A gilded brass brooch in the shape of a resin-painted Eye and a cascade of abstract teardrops. It is adorned with pearls and a ring encrusted with rhinestones. ",
+          "favorito": false
+      },
+  
+  
+  
+        { 
+      
+   "identificacao": "Visage brooch",
+        "categoria": "Jewelry",
+        "valor": 1500,
+        "imagem": "https://www.schiaparelli.com/eshop/eshopmedias/packshot-PH21BI107S-001-medFormat?context=bWFzdGVyfHJvb3R8MjIxNTcwfGltYWdlL2pwZWd8aDVjL2hhMS84OTA4MDk0NzAxNTk4LmpwZ3wzZTYxOGI4MDU1OWMxNjk0Y2U3YWFkZTA3YTY2MmI2Zjk3NDFkODMwN2ZiM2EwYjJkYjQ0OWU3NzVlOWExNmI0&frz-v=114", 
+        "colecao": "Fall - Summer 21/22", 
+        "cor": "Gilded", 
+        "referencia":"PH21BI107S_001-U",
+        "tipo":"Brooches",
+        "tamanho": "",
+        "alt": "The visage is composed of a Nose with a silver piercing, a silver Eyebrow barbell piercing, a green Eye in printed resin, and a silver teardrop that starts from the inner corner of the Eye.",
+          "favorito": false
+      },
+  
+  
+           { 
+      
+   "identificacao": "Pierced mouth brooch",
+        "categoria": "Jewelry",
+        "valor": 590,
+        "imagem": "https://www.schiaparelli.com/eshop/eshopmedias/packshot-PH21BI109S-001-medFormat?context=bWFzdGVyfHJvb3R8MTM0NjQ4fGltYWdlL2pwZWd8aGU3L2hiZS84OTA4MDk2NjY3Njc4LmpwZ3xjMTdhNmE4ZTgxNjJjNTNjNDBjZmI1YWJiNGZlMzU0NTFiN2FlZmU5NGVmZmM2ODNhMjYwNjE2ZTY5ZTQ2NmY0&frz-v=114", 
+        "colecao": "Fall - Summer 21/22", 
+        "cor": "Gilded", 
+        "referencia":"PH21BI109S_001-U",
+        "tipo":"Brooches",
+        "tamanho": "",
+        "alt": "A gilded brass brooch is molded into a Mouth. The lower lip is pierced with a silver hoop covered in Swarovski rhinestones.",
+        "favorito": false
+      },
+  
+  
+           { 
+      
+   "identificacao": "Dove brooch",
+        "categoria": "Jewelry",
+        "valor": 700,
+        "imagem": "https://www.schiaparelli.com/eshop/eshopmedias/PACKSHOT-PE21BI57S-001-medFormat?context=bWFzdGVyfHJvb3R8MTc0NTg3fGltYWdlL2pwZWd8aGJjL2gyOC84OTAxNDI2Njc1NzQyLmpwZ3wxOGNiNDk1OGUwYzM3N2VjZWYyOGZjZjQ0OGUzYzI1ZjgxOTJiNjk5MzMyMGM0ZmI1NzNiNGZjMTY0NjRlNzFj&frz-v=114", 
+        "colecao": "Spring - Summer 21", 
+        "cor": "Gilded", 
+        "referencia":"PH21BI109S_001-U",
+        "tipo":"Brooches",
+        "tamanho": 9,
+        "alt": "A gilded pewter brooch is in the shape of a Dove carrying an olive branch.",
+        "favorito": false
+            
+      },
+  
+  
+           { 
+      
+   "identificacao": "Eye Ring",
+        "categoria": "Jewelry",
+        "valor": 350,
+        "imagem": "https://www.schiaparelli.com/eshop/eshopmedias/packshot-PE22BI28S-046-xxlargeFormat?context=bWFzdGVyfHJvb3R8MzczMDYyfGltYWdlL2pwZWd8aGVkL2hhZS84OTI1ODQxMDYzOTY2LmpwZ3w4MWI2ZDJiZmQ2ZDkzNTkyNzg1YjIzNmYzMjdjMWM0Mjg2NThmOWYzM2NjYzYyMjIyMzkxNzgyN2U2MmQ0YTEy&frz-v=114", 
+        "colecao": "Spring - Summer 22", 
+        "cor": "Gilded", 
+        "referencia":"PE22BI28S_046-U",
+        "tipo":"Rings",
+        "tamanho": "",
+        "alt": "This gold-tone modernist metal ring is composed of a green Eye in printed resin.",
+        "favorito": true
+            
+      },
+  
+         { 
+      
+   "identificacao": "Stacked rings",
+        "categoria": "Jewelry",
+        "valor": 950,
+        "imagem": "https://www.schiaparelli.com/eshop/eshopmedias/packshot-PH22BI06S-001-medFormat?context=bWFzdGVyfHJvb3R8MTE2NjMyfGltYWdlL2pwZWd8aGUwL2g0ZC84OTU1ODk5ODcxMjYyLmpwZ3w3ZDcxNWZhZGUxMWQyOWIwNjMzNGQ1MTZmOGVkNzI5YWI0NzZjNTBjMTBkNDgzZDY3M2FlYzk3NDcwMjY0MTg0&frz-v=114", 
+        "colecao": "Spring - Summer 22", 
+        "cor": "Gilded", 
+        "referencia":"PE22BI28S_046-U",
+        "tipo":"Rings",
+        "tamanho": "M",
+        "alt": "A gilded brass ring made of three superimposed rings that are adorned separately with pearls, rhinestones, and an emerald-colored cabochon.",
+           "favorito": true
+            
+      },
+  
+      
+           { 
+      
+   "identificacao": "Ear ring",
+        "categoria": "Jewelry",
+        "valor": 690,
+        "imagem": "https://www.schiaparelli.com/eshop/eshopmedias/packshot-PH21BI19S-001-medFormat?context=bWFzdGVyfHJvb3R8ODc2NzN8aW1hZ2UvanBlZ3xoZGYvaDI4Lzg5MDQ2NzQwNTAwNzguanBnfGNmMjI4OTU5NzE5ZDEwYWM2MjA4MThjOTY3MmZiNWExMzY4MzNlNDUwODUzMjkyYmM5OWRmOTZmYjZjN2M3MDY&frz-v=114", 
+        "colecao": "Spring - Summer 22", 
+        "cor": "Gilded", 
+        "referencia":"PH21BI19S_001-U",
+        "tipo":"Rings",
+        "tamanho": "",
+        "alt": "The Ear is adorned with two black enamel cabochons." ,
+        "favorito": false
+           },
+  
+        { 
+      
+   "identificacao": "Sun ring",
+        "categoria": "Jewelry",
+        "valor": 550,
+        "imagem": "https://www.schiaparelli.com/eshop/eshopmedias/packshot-PH22BI31S-001-medFormat?context=bWFzdGVyfHJvb3R8MTcxMDE4fGltYWdlL2pwZWd8aDU5L2g4Yi84OTUwNzg0NjIyNjIyLmpwZ3w5NGY3ZjUxYWJmYzRlMWRlYWNiMDk4YWY3NzRhNjYwYTllZjZhZTQ3MTRiYzE4N2IxNDFjYjhjMWI3ZDNjYmY2&frz-v=114", 
+        "colecao": "Spring - Summer 22", 
+        "cor": "Gilded", 
+        "referencia":"PH22BI31S_001-MM",
+        "tipo":"Rings",
+        "tamanho": "",
+        "alt": "A gilded brass ring in the shape of a Sun with each spoke adorned with a pearl." ,
+          "favorito": false
+            
+      },
+  
+  
+  
+        { 
+      
+   "identificacao": "Medallion bracelet",
+        "categoria": "Jewelry",
+        "valor": 1800,
+        "imagem": "https://www.schiaparelli.com/eshop/eshopmedias/packshot-PH22BI45S-001-medFormat?context=bWFzdGVyfHJvb3R8MjUxMzk5fGltYWdlL2pwZWd8aDA4L2gzMy84OTUwODQwNzIxNDM4LmpwZ3w2OTExZDJkNmExMzkxOTc4NWZjMjZkZDhlYzM4ZTI0NTQ4MWJlOTcxZjVmNDgwOWZkMzg1N2ExNzE3OGY2NzQ3&frz-v=114", 
+        "colecao": "Spring - Summer 22", 
+        "cor": "Gilded", 
+        "referencia":"PH22BI45S_001-U",
+        "tipo":"Bracelets",
+        "tamanho": "",
+        "alt": "A gilded brass bracelet includes four pendants in the motifs of the Maison: an Eye, a woman’s bust, a Sun, and rhinestone-encrusted Lungs." ,
+        "favorito": true
+
+            
+      },
+  
+  
+        { 
+      
+   "identificacao": "Cocteau eye bangle",
+        "categoria": "Jewelry",
+        "valor": 590,
+        "imagem": "https://www.schiaparelli.com/eshop/eshopmedias/main-PH20BI29S-001-medFormat?context=bWFzdGVyfHJvb3R8MTU4NjI3fGltYWdlL2pwZWd8aDc3L2g0OS84ODY2MzYxMzExMjYyLmpwZ3w5OTQ5MjIyNjNkZmFkYWQxNzliM2RjYzNiNTU2OTg5Y2VkMmU1YzczYzljYWRjZGUzZTYwZGNhZGQzZmY0OTRl&frz-v=114", 
+        "colecao": "Spring - Summer 22", 
+        "cor": "Gilded", 
+        "referencia":"PH20BI29S_001-U",
+        "tipo":"Bracelets",
+        "tamanho": "",
+        "alt": "Eye bangle in gilded brass." ,
+          "favorito": true
+            
+      },
+  
+      
+        { 
+      
+   "identificacao": "Anatomy bracelet",
+        "categoria": "Jewelry",
+        "valor": 1350,
+        "imagem": "https://www.schiaparelli.com/eshop/eshopmedias/zoom2-PE22BI26S-046-medFormat?context=bWFzdGVyfHJvb3R8MzA0MTk4fGltYWdlL2pwZWd8aGE1L2g3Ny84OTI1MzQ4MzMxNTUwLmpwZ3w1NDZkOWE0MWViMTY0MjkzNTk1ZGEyZWNjODI2YmE2N2JmMzBjODI4MzRiMGVkOGY5MjI1YjU5OThjMmIyOWNk&frz-v=114", 
+        "colecao": "Spring - Summer 22", 
+        "cor": "Gilded", 
+        "referencia":"PE22BI26S_056-U",
+        "tipo":"Bracelets",
+        "tamanho": "",
+        "alt": "A gilded brass bracelet is composed of multiple Anatomy elements: an Ear, a Tooth, a Mouth, a Breast, and a Nose." 
+            
+      },
+  
+  { 
+      
+   "identificacao": "Loop bracelets with pendants",
+        "categoria": "Jewelry",
+        "valor": 850,
+        "imagem": "https://www.schiaparelli.com/eshop/eshopmedias/zoom2-PE22BI06S-046-medFormat?context=bWFzdGVyfHJvb3R8MzEyNzA1fGltYWdlL2pwZWd8aGQ0L2hmYS84OTI1MzYzOTYxODg2LmpwZ3xmNWQ5NmY4MjZmZDA3NzQyYWYwYzU3ZjE2NjllYzY3ZjIwMzZkOTdhZWJkMDJmYjc4ZGVlNjM5YjAzMDc2NmU2&frz-v=114", 
+        "colecao": "Spring - Summer 22", 
+        "cor": "Gilded", 
+        "referencia":"PE22BI06S_046-U",
+        "tipo":"Bracelets",
+        "tamanho": "",
+        "alt": "This semi-rigid gilded brass bracelet includes the Anatomy pendants of a Mouth and an Eye in printed resin." 
+            
+      },
+  
+  
+  { 
+      
+   "identificacao": "Nipple and keyhole bag",
+        "categoria": "Acessories",
+        "valor": 4500,
+        "imagem": "https://www.schiaparelli.com/eshop/eshopmedias/packshot-PE22SA03S-999-medFormat?context=bWFzdGVyfHJvb3R8MTcxOTg1fGltYWdlL2pwZWd8aGRlL2gwMi84OTU4MjM4MTMwMjA2LmpwZ3wyNGMxMjE1OGQ3NjNhZmMzZDRiZWI2YTU4ZWNlN2JmOTMyY2YwZjI0MjQxYWNhZjU5OWM3NGM2NDE2MzI1MzNh&frz-v=114", 
+        "colecao": "Spring - Summer 22", 
+        "cor": "Black w gilded", 
+        "referencia":"PE22SA03S_999-MINI",
+        "tipo":"Bags",
+        "tamanho": "90x90",
+        "alt": "This Mini Secret Bag is crafted from smooth black lambskin. The clasp is in the shape of Padlock in gilded hammered brass and black enamel with its back engraved with the Schiaparelli logo." ,
+        "favorito": true
+            
+      },
+  
+  
+  { 
+      
+   "identificacao": "Duffle 48H",
+        "categoria": "Acessories",
+        "valor": 6000,
+        "imagem": "https://www.schiaparelli.com/eshop/eshopmedias/main-PE18SA01C-999-medFormat?context=bWFzdGVyfHJvb3R8MjMzMTkzfGltYWdlL2pwZWd8aDJkL2g1Yy84ODMxNjI2MDE4ODQ2LmpwZ3w2Zjg3YTllN2MyYzJlN2M2MjJhMGQxNmQ4OTZmOTQzY2NjNGZkNjM2ODFiMDEyMWUxMGUzNDE0YWQ4YTUyZjMw&frz-v=114", 
+        "colecao": "Spring - Summer 21", 
+        "cor": "Black w coffee", 
+        "referencia":"PE18SA01C_999-TU",
+        "tipo":"Bags",
+        "tamanho": "MM",
+        "alt": "48-hour bag in smooth black calfskin, carried in the hand or worn on the shoulder thanks to its shoulder strap." ,
+    "favorito":false 
+      },
+  
+      
+  { 
+      
+   "identificacao": "Mini double-gusset sun bag",
+        "categoria": "Acessories",
+        "valor": 3300,
+        "imagem": "https://www.schiaparelli.com/eshop/eshopmedias/packshot-PE21SA12S-401-medFormat?context=bWFzdGVyfHJvb3R8MTQ0OTYyfGltYWdlL2pwZWd8aGYzL2g3Yy84ODk1NjI4MDgzMjMwLmpwZ3wwOWQyYzRmZmY2OTE3MmQ3NzE0ZjcwNjI3ODM2NjllYmZmM2JkZWM2ZGVlNzRkNzM1YjMzMTU3NTM0YWZmNjhk&frz-v=114", 
+        "colecao": "Fall - Winter 21/22", 
+        "cor": "Schocking Pink", 
+        "referencia":"PE21SA12S_401-TAILLE",
+        "tipo":"Bags",
+        "tamanho": "S",
+        "alt": "Bag in shocking pink quilted calfskin and its Shocking pink calfskin lining with a patch and card pocket. Gilded brass zipper pull is engraved with Schiaparelli." ,
+    "favorito": false
+      },
+  
+  
+      
+  { 
+      
+   "identificacao": "Secret bag",
+        "categoria": "Acessories",
+        "valor": 5100,
+        "imagem": "https://www.schiaparelli.com/eshop/eshopmedias/packshot-PH22SA20S-300-medFormat?context=bWFzdGVyfHJvb3R8MjQxNjQ1fGltYWdlL2pwZWd8aGVjL2hlMS84OTU4MDkzMTY0NTc0LmpwZ3wzODAwZDUzZWQ1NTM4ODk5YTkwM2E0ZTU2YWQ4YTAxM2FiZTkyMTEzZTIwOTUyZjFiMTg5YzI2NzA1OGU5NGY3&frz-v=114", 
+        "colecao": "Fall - Winter 21/22", 
+        "cor": "Red brick", 
+        "referencia":"PH22SA20S_300-TAILLE",
+        "tipo":"Bags",
+        "tamanho": "M",
+        "alt": "A bag crafted from smooth red lambskin. It is secured with a gilded brass toggle clasp in the form of a Padlock with black enamel detailing." ,
+        "favorito": true
+      },
+  
+  
+  
+      
+  { 
+      
+   "identificacao": "Measuring tape coin purse",
+        "categoria": "Acessories",
+        "valor": 800,
+        "imagem": "https://www.schiaparelli.com/eshop/eshopmedias/packshot-PE21PM05S-999-medFormat?context=bWFzdGVyfHJvb3R8ODY0NzV8aW1hZ2UvanBlZ3xoNjMvaDcyLzg4OTU0Mjg1NTg4NzguanBnfDQyNTkzZTE2OGU5MDgyNjAwZTJkMzBlMjM2NGRkMjM0ZTk3NjU3MGVkYjE3ZWRmODkzY2M3NjAwYTg1NzU5NmY&frz-v=114", 
+        "colecao": "Fall - Winter 21/22", 
+        "cor": "Black", 
+        "referencia":"PE21PM05S_999-TU",
+        "tipo":"Small Leather Goods",
+        "tamanho": "MM",
+        "alt": "Coin purse in smooth black calfskin with two card slots and its Shocking pink calfskin lining.",
+         "favorito": true
+      },
+  
+     
+  { 
+      
+   "identificacao": "Eyes wallet",
+        "categoria": "Acessories",
+        "valor": 1400,
+        "imagem": "https://www.schiaparelli.com/eshop/eshopmedias/packshot-PE22PM01S-002-medFormat?context=bWFzdGVyfHJvb3R8NjgwNTV8aW1hZ2UvanBlZ3xoNTEvaDdlLzg5MzYzMTE1ODY4NDYuanBnfDIyNDI4YjhjNWMxNTQ5ZjFmMWI0MjEyMDEzOTg4OTlmNDMzMzExODRkNjZkYzJiM2Y2YTZiZWQ3ZjEwOGM5MmI&frz-v=114", 
+        "colecao": "Fall - Winter 21/22", 
+        "cor": "Silver", 
+        "referencia":"PE22PM01S_002-TAILLE",
+        "tipo":"Small Leather Goods",
+        "tamanho": "MM",
+        "alt": "A zip wallet in black smooth calfskin is adorned with a pair of trompe l'oeil jewel eyes." ,
+        "favorito": false
+      },
+  
+     
+  { 
+      
+   "identificacao": "Schiaparelli clutch",
+        "categoria": "Acessories",
+        "valor": 1850,
+        "imagem": "https://www.schiaparelli.com/eshop/eshopmedias/main-PH20SA14S-999-medFormat?context=bWFzdGVyfHJvb3R8MTM2MTkzfGltYWdlL2pwZWd8aGQ3L2hjZC84ODk4NTgyMTUxMTk4LmpwZ3wwMzI4ODllNTdiNTM1YTBhZDRkM2IzYmRlZmIwZDI1NjllMjE4YjQ3YzcxY2Q1YzM4YjExYzNiNGZjYmFjNWE5&frz-v=114", 
+        "colecao": "Fall - Winter 21/22", 
+        "cor": "Black", 
+        "referencia":"PH20SA14S_999-TAILLE",
+        "tipo":"Small Leather Goods",
+        "tamanho": "MM",
+        "alt": "Calfskin zipped clutch in black, featuring the letters “Schiaparelli” in gilded brass." ,
+         "favorito": true
+      },
+  
+     
+  { 
+      
+   "identificacao": "Jewelry clutch",
+        "categoria": "Acessories",
+        "valor": 1400,
+        "imagem": "https://www.schiaparelli.com/eshop/eshopmedias/packshot-PH21PM11S-999-medFormat?context=bWFzdGVyfHJvb3R8OTM4MjB8aW1hZ2UvanBlZ3xoNDUvaGQwLzg5MjU0MjY0MTc2OTQuanBnfDA2ZWEwNDJmNDUyNzkxNmI1MGRhY2E2ZDgzOTU2ODA0MWU4YTY5OTI5ZDllODhiOTZlZmJmNTkxZWIwODQ1MDM&frz-v=114", 
+        "colecao": "Fall - Winter 21/22", 
+        "cor": "Black", 
+        "referencia":"PH21PM11S_999-TAILLE",
+        "tipo":"Small Leather Goods",
+        "tamanho": "MM",
+        "alt": "A zip pouch is crafted from smooth black calfskin and is decorated with gilded brass bijoux studs, including a Tooth holding a white pearl, a Nose with a septum piercing, a pierced Ear, a green Eye in printed resin, a Keyhole with painted black enamel, and a pierced with a barbell.",
+    "favorito": true
+      },
+  
+  
+  { 
+      
+   "identificacao": "Padlock belt",
+        "categoria": "Acessories",
+        "valor": 1200,
+        "imagem": "https://www.schiaparelli.com/eshop/eshopmedias/packshot-PH21PM09S-999-medFormat?context=bWFzdGVyfHJvb3R8MTEyMTI3fGltYWdlL2pwZWd8aDFiL2hmMy84OTYxMTMyMDAzMzU4LmpwZ3w1MDhlNGQwZGI0ZmFiMzNmYmY5MGJmNGQzZTRkNzBiYTU2MTI5YzdlYjI0YzU4ZDRhM2ViMTQ4ZjQzMjJmY2M3&frz-v=114", 
+        "colecao": "Fall - Winter 21/22", 
+        "cor": "Black", 
+        "referencia":"PH21PM09S_999-S",
+        "tipo":"Belts",
+        "tamanho": "S",
+        "alt": "A belt is crafted from smooth black calfskin. The belt closes with a toggle in the shape of a gilded brass metal Padlock." ,
+    "favorito": false
+      },
+  
+  { 
+      
+   "identificacao": "Bijoux chain belt",
+        "categoria": "Acessories",
+        "valor": 3200,
+        "imagem": "https://www.schiaparelli.com/eshop/eshopmedias/packshot-PE22BI41S-046-medFormat?context=bWFzdGVyfHJvb3R8MTc5Njg3fGltYWdlL2pwZWd8aDI2L2g3Ny84OTI1MzQ5NTExMTk4LmpwZ3xmZWZhYmUzOWE3YzdmMDcwZWMzNzNlY2I3OTNkZWVkYWU3NGIwOWZkYzkxYmRjMWNiOGU3ZTMwNTBhNzg0MTI5&frz-v=114", 
+        "colecao": "Spring - Summer 22", 
+        "cor": "Gilded", 
+        "referencia":"PE22BI41S_046-U",
+        "tipo":"Belts",
+        "tamanho": "M",
+        "alt": "A gilded brass belt is composed of a chain with large hammered links and anatomical Bijoux such as a Nose, an Eye, a Tooth, and a Mouth. The Eye’s green iris is in printed resin." ,
+    "favorito": true
+      },
+  
+  
+  { 
+      
+   "identificacao": "Sun Buckle belt",
+        "categoria": "Acessories",
+        "valor": 2350,
+        "imagem": "https://www.schiaparelli.com/eshop/eshopmedias/packshot-PH22PM05S-999-medFormat?context=bWFzdGVyfHJvb3R8MjE2MjU3fGltYWdlL2pwZWd8aDQ3L2hkNS84OTUxMDY4NTI0NTc0LmpwZ3wxMGE2ZDRlMTFkM2QzNjQ2NWQ0NDU1NmZkNGE1N2IwNzRlYmEzMjE5MWZiMWY3NjA1NWMyNzA3YmQ3MzViY2My&frz-v=114", 
+        "colecao": "Fall - Winter 21/22", 
+        "cor": "Black", 
+        "referencia":"PH22PM05S_999-70CM",
+        "tipo":"Belts",
+        "tamanho": "M",
+        "alt": "A wide belt crafted from black cowhide leather and is fastened by a gilded brass buckle in the shape of the sun with an attached gold chain." ,
+    "favorito": false
+      },
+  
+  
+  { 
+      
+   "identificacao": "Medallion belt",
+        "categoria": "Acessories",
+        "valor": 1450,
+        "imagem": "https://www.schiaparelli.com/eshop/eshopmedias/packshot-PH22PM02S-999-medFormat?context=bWFzdGVyfHJvb3R8MTQzMTg4fGltYWdlL2pwZWd8aDEyL2g5Zi84OTUxMDY0NTI2ODc4LmpwZ3xkNzBjZWYyNDE5Mjk5ODhmYjBkZTczZGY2YTczNTNiNmQzZGY4ODFkYzJmYmY1NjFjMzA3NDNjOGNhYjU5ODY2&frz-v=114", 
+        "colecao": "Fall - Winter 21/22", 
+        "cor": "Black", 
+        "referencia":"PH22PM05S_999-70CM",
+        "tipo":"Belts",
+        "tamanho": "M",
+        "alt": "A wide belt crafted from black cowhide leather and is fastened with a gilded brass buckle clasp with a resin-painted Eye in relief." ,
+    "favorito": false
+      },
+  
+      { 
+      
+   "identificacao": "Mouth bijoux pendant with keyring",
+        "categoria": "Acessories",
+        "valor": 1400,
+        "imagem": "https://www.schiaparelli.com/eshop/eshopmedias/packshot-PE22BI36S-046-medFormat?context=bWFzdGVyfHJvb3R8MTIwNDgzfGltYWdlL2pwZWd8aDI4L2gzNS84OTI1OTk2MTIyMTQyLmpwZ3w4MmQyNmFjZmY5MWMzOWQ0NGQ2ZjhkMTMyM2E2M2I4N2U5YjI2Y2Y4ZmE5NWU3NzBjMDU1N2I2NmJkMzQxMzIw&frz-v=114", 
+        "colecao": "Fall - Winter 21/22", 
+        "cor": "Gilded", 
+        "referencia":"PE22BI36S_046-U",
+        "tipo":"carabiner",
+        "tamanho": "",
+        "alt": "A gold-tone metal carabiner is adorned with Bijoux. The main pendant is a surrealist Mouth in relief. It is attached to a link encrusted with crystal rhinestones that is articulated on a bar with small teeth. A smaller Bijoux is an abstract Breast. The Schiaparelli logo is engraved on the back." ,
+        "favorito": true
+      },
+      
+      { 
+      
+   "identificacao": "Motif pendant with carabiner",
+        "categoria": "Acessories",
+        "valor": 950,
+        "imagem": "https://www.schiaparelli.com/eshop/eshopmedias/packshot-PE22BI54S-046-medFormat?context=bWFzdGVyfHJvb3R8MTIyNzI0fGltYWdlL2pwZWd8aGM2L2g1Ny84OTI2MDA1MDM1MDM4LmpwZ3xlYjUxMmIyMDY4NjQwNTM0MjlkZWMzNmE1ZGQ2ZWRiOTg3ZGQ0MTJlNjEzODMwNWZmYjc5MjM5ZTdiOTEzYTVi&frz-v=114", 
+        "colecao": "Fall - Winter 21/22", 
+        "cor": "Gilded", 
+        "referencia":"PE22BI54S_046-U",
+        "tipo":"carabiner",
+        "tamanho": "",
+        "alt": "A gold-tone metal carabiner with Bijoux. The main Bijoux are two emblems of the Maison: an Eye with a green iris in printed resin and a Padlock. The link is adorned with crystal rhinestones. The other pendant is composed of a hammered link." ,
+        "favorito": false
+      },
+  
+      { 
+      
+   "identificacao": "Nose and eye bijoux pendant with carabiner",
+        "categoria": "Acessories",
+        "valor": 950,
+        "imagem": "https://www.schiaparelli.com/eshop/eshopmedias/packshot-PE22BI53S-046-medFormat?context=bWFzdGVyfHJvb3R8MTIwNzk5fGltYWdlL2pwZWd8aDdlL2g5ZS84OTI2MDAzNzI0MzE4LmpwZ3wyODYwYmM1OTBlNzAwZjQ4NjY4MThiMzc0NDY3MDg1ZjRiNTJlNzBiYWYzOWM2YjFkM2YyYTdjOWJiZmRjY2Nk&frz-v=114", 
+        "colecao": "Fall - Winter 21/22", 
+        "cor": "Gilded", 
+        "referencia":"PE22BI53S_046-U",
+        "tipo":"carabiner",
+        "tamanho": "",
+        "alt": "A gold-tone metal carabiner with Bijoux. The main Bijoux are a three-dimensional Nose and an Eye with a green iris in painted resin. Links are hammered while one link is adorned with crystal rhinestones. A bar is finished with white glass beads." ,
+        "favorito": false
+      },
+
+      { 
+      
+   "identificacao": "Multi-Medallion Belt",
+        "categoria": "Acessories",
+        "valor": 2850,
+        "imagem": "https://www.schiaparelli.com/eshop/eshopmedias/packshot-PH22PM03S-999-medFormat?context=bWFzdGVyfHJvb3R8MTMzNzYzfGltYWdlL2pwZWd8aDcyL2g0Mi84OTUxMDY2OTUxNzEwLmpwZ3xmZmM5ZTIwMTA4ZWUzODQ0OTJiNmZjOWVhMzAwYmMyNzA4NTY1ZmQxNmYyNTEyYTYyZDUxOWE1ODhmYTUyYmJk&frz-v=115", 
+        "colecao": "Fall - Winter 21/22", 
+        "cor": "Black w gilded", 
+        "referencia":"PH22PM03S_999-75CM",
+        "tipo":"Belts",
+        "tamanho": "",
+        "alt": "A belt in black leather boasts three gilded brass medallions of Maison motifs, which include a Lung, a planet, and a woman’s torso." ,
+        "favorito": true
+      },
+  
+      
+      { 
+      
+   "identificacao": "Scketch scarf",
+        "categoria": "Acessories",
+        "valor": 495,
+        "imagem": "https://www.schiaparelli.com/eshop/eshopmedias/packshot-PH22FOU03S-107-1-medFormat?context=bWFzdGVyfHJvb3R8MjcxODQ5fGltYWdlL2pwZWd8aDUyL2g2Yi84OTUwNzA3MDYwNzY2LmpwZ3w1MmU2ZjAxMjk1NjEwZjYzZTY1YzBlODEzY2Q3OGU0ZmUxNjY0YjA3ZWUwY2JhNGIyYjNkMDFhNjQwYTU1NDFj&frz-v=114", 
+        "colecao": "Spring - Summer 21/22", 
+        "cor": "Gilded", 
+        "referencia":"PH22FOU03S_107-90X90",
+        "tipo":"scarf",
+        "tamanho": "90x90",
+        "alt": "A scarf crafted from heavy silk twill in ecru and features illustrations of Schiaparelli codes in black, such as a sun, a Dove, and a Padlock. Double print. 90 x 90." ,
+        "favorito": true
+      },
+  
+      { 
+      
+   "identificacao": "Astronomy scarf",
+        "categoria": "Acessories",
+        "valor": 495,
+        "imagem": "https://www.schiaparelli.com/eshop/eshopmedias/packshot-PH22FOU04S-999-1-medFormat?context=bWFzdGVyfHJvb3R8NjM0NDI0fGltYWdlL2pwZWd8aDNiL2g2Yi84OTUwNzA2NjAyMDE0LmpwZ3w5OTQ3NzYxNzJhNWIxOTVkMDVkZWUzZmQ3ZmEzZjdjMjM3MWRjYWMxY2YxODRkZTkxYThiNzVkYTY3MmUzZTVm&frz-v=114", 
+        "colecao": "Spring - Summer 21/22", 
+        "cor": "Black w gilded", 
+        "referencia":"PH22FOU04S_999-90X90",
+        "tipo":"scarf",
+        "tamanho": "90x90",
+        "alt": "A scarf crafted from heavy silk twill and features prints inspired by the embroidery of the Haute Couture fall 2022 collection. Double print. 90 x 90." ,
+        "favorito": false
+      },
+  
+      { 
+      
+   "identificacao": "Small anatomy scarf",
+        "categoria": "Acessories",
+        "valor": 290,
+        "imagem": "https://www.schiaparelli.com/eshop/eshopmedias/packshot-PE22FOU02S-125-medFormat?context=bWFzdGVyfHJvb3R8MTY5MTYyfGltYWdlL2pwZWd8aDE5L2hjOS84OTYxMTI1MzUxNDU0LmpwZ3xiNDRiZTU1NGRjZTIyODhhZjNlNWJlZWVjZGY4YjY2NTY0ODIxNWExNjRhZDI5MDY3OGJkN2JhY2ZiMTU5MjQy&frz-v=115", 
+        "colecao": "Spring - Summer 21/22", 
+        "cor": "red and white", 
+        "referencia":"PE22FOU02S_125-TU",
+        "tipo":"scarf",
+        "tamanho": "45x45",
+        "alt": "Anatomy printed scarf in silk twill with hand-rolled edges" ,
+        "favorito": false
+      },
+  
+      { 
+      
+   "identificacao": "Anatomy scarf",
+        "categoria": "Acessories",
+        "valor": 395,
+        "imagem": "https://www.schiaparelli.com/eshop/eshopmedias/packshot-PE22FOU01S-126-medFormat?context=bWFzdGVyfHJvb3R8MzY5MjQ3fGltYWdlL2pwZWd8aDExL2gyNS84OTI5Njc0MDAyNDYyLmpwZ3wzNDhkMTI4YjJmNzQ4MzBlZWU5ZmQ0MjRiNDZjNTVmYjJjOTY3ZDZkNTc5ZDk4MDE2MGVlMzRhNGQ5MTYxYzg1&frz-v=114", 
+        "colecao": "Spring - Summer 21/22", 
+        "cor": "Black and white", 
+        "referencia":"PE22FOU01S_126-TU",
+        "tipo":"scarf",
+        "tamanho": "90x90",
+        "alt": "Anatomy printed scarf in silk twill with hand-rolled edges." ,
+        "favorito": true
+      }
+  
+      
+    ]
+  }
